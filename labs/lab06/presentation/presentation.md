@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа 6
+subtitle: Модель «хищник–жертва»
 author:
   - Хамдамова Айжана
 institute:
